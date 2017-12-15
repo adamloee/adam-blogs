@@ -1,0 +1,12 @@
+# These directories need not be in git
+
+public/
+temp/
+themes/
+
+# So are these files
+
+*.log
+*.exe
+*.lnk
+
