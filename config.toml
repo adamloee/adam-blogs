@@ -31,8 +31,7 @@ relativeurls =  true
 
 ###############################
 #[permalinks]
-# post = "/:year/:month/:day/:slug"
-
+# post = "/:year/:month/:day/:slug
 ##############################
 # delete watch and verbose values when generating for remote site
  watch = true
