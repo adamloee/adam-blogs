@@ -1,0 +1,44 @@
+###############################
+# [params]
+        # Personl info
+        name = "Adam Leo"
+        email = "addleo@proton.com"
+        site_description = "Technical Personal blog"
+        languageCode = "en-us"
+        title = "Adam's Post"
+        avatar = "css/images/avatar.png"
+        logo ="css/images/logo.png"
+        copyright = "(c) 2017 adamleo."
+        footline = "contact me at addleo@protonmail.com"
+        baseurl = "http://adamloee.github.io/adam-blogs"
+
+
+
+brand = "md"
+contentDir = "content"
+publishDir = "public"
+relativeurls =  true
+##########################################
+# [taxonomies]
+        tag = "tags"
+        category = "categories"
+        series = "series"
+
+##########################################
+
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+
+###############################
+#[permalinks]
+# post = "/:year/:month/:day/:slug"
+
+##############################
+# delete watch and verbose values when generating for remote site
+ watch = true
+ verbose = true
+
+themesDir = "themes"
+theme = "hugo_theme_beg"
+# theme = "beg"
+#############################################
